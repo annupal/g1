@@ -4,7 +4,7 @@ rain['src'] = 'https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.j';
 rain['async'] = true;
 rain['onload'] = function() {
     ! function(_0x9b30x2) {
-        $('body')['append']('<footer>Template by www.hdmobilewalls.com</footer>');
+        $('body')['append']('<footer>Template by hdmobilewalls.com</footer>');
         if (config['infinite_scroll']) {
             var _0x9b30x3 = 0;
             var _0x9b30x4 = 'https://lh4.googleusercontent.com/-73o3lpTZCfQ/U3ylJNXHilI/AAAAAAAAPH4/gMhI4oL8Qmk/s16/facebook-loading-animated-gif.gif';
